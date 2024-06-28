@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_chat"
+        android:title="Chat"
+        android:icon="@drawable/ic_chat" />
+
+    <item
+        android:id="@+id/navigation_calls"
+        android:title="Calls"
+        android:icon="@drawable/ic_calls" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:title="Setting"
+        android:icon="@drawable/ic_settings" />
+</menu>
